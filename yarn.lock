@@ -3172,7 +3172,7 @@ babel-core@7.0.0-bridge.0:
   resolved "https://registry.yarnpkg.com/babel-core/-/babel-core-7.0.0-bridge.0.tgz#95a492ddd90f9b4e9a4a1da14eb335b87b634ece"
   integrity sha512-poPX9mZH/5CSanm50Q+1toVci6pv5KSRv/5TWCwtzQS5XEwn40BcCrgIeMFWP9CKKIniKXNxoIOnOq4VVlGXhg==
 
-babel-eslint@^10.1.0:
+babel-eslint@10.1.0:
   version "10.1.0"
   resolved "https://registry.yarnpkg.com/babel-eslint/-/babel-eslint-10.1.0.tgz#6968e568a910b78fb3779cdd8b6ac2f479943232"
   integrity sha512-ifWaTHQ0ce+448CYop8AdrQiBsGrnC+bMgfyKFdi6EsPLTAWG+QfyDeM6OH+FmWnKvEq5NnBMLvlBUPKQZoDSg==
@@ -5425,17 +5425,7 @@ eslint-plugin-unicorn@^28.0.2:
     safe-regex "^2.1.1"
     semver "^7.3.4"
 
-eslint-plugin-vue@^7.1.0, eslint-plugin-vue@^7.15.1, eslint-plugin-vue@^7.7.0:
-  version "7.15.1"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-vue/-/eslint-plugin-vue-7.15.1.tgz#699c1f3ce2032ea8843b8d5d1adb863b7979965c"
-  integrity sha512-4/r+n/i+ovyeW2gVRRH92kpy4lkpFbyPR4BMxGBTLtGnwqOKKzjSo6EMSaT0RhWPvEjK9uifcY8e7z5n8BIEgw==
-  dependencies:
-    eslint-utils "^2.1.0"
-    natural-compare "^1.4.0"
-    semver "^6.3.0"
-    vue-eslint-parser "^7.10.0"
-
-eslint-plugin-vue@^7.9.0:
+eslint-plugin-vue@^7.1.0, eslint-plugin-vue@^7.15.1, eslint-plugin-vue@^7.9.0:
   version "7.15.1"
   resolved "https://registry.yarnpkg.com/eslint-plugin-vue/-/eslint-plugin-vue-7.15.1.tgz#699c1f3ce2032ea8843b8d5d1adb863b7979965c"
   integrity sha512-4/r+n/i+ovyeW2gVRRH92kpy4lkpFbyPR4BMxGBTLtGnwqOKKzjSo6EMSaT0RhWPvEjK9uifcY8e7z5n8BIEgw==
